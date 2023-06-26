@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **R and SQL.**
 
-- 👨‍💻 All of my projects are available at [https://wai-leung.notion.site](https://wai-leung.notion.site)
-
-- 📫 How to reach me **wt.leung1991@gmail.com**
+- 📫 **wt.leung1991@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
